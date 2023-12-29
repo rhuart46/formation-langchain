@@ -1,0 +1,6 @@
+# Local env config:
+.env
+.python-version
+
+# IDEs:
+.idea
