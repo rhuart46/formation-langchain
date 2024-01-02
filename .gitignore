@@ -1,3 +1,5 @@
+__pycache__/
+
 # Local env config:
 .env
 .python-version
@@ -8,3 +10,4 @@
 # Specific rules for some exercises:
 messages.json
 emb/
+db.sqlite
